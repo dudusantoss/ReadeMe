@@ -1,12 +1,15 @@
 # ReadeMe
 🇧🇷 <h2>ESTUDANTE DE ADS</h2>
 ## ferramentas e tecnologias 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="100" height="100"/>
+</div>
  <h2>ESTOU APRENDENDO</h2>
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Javascript-escritor/Javascript-escritor-original.svg" width="100" height="100"/>
 
            
   <img src=""width="100" height="100" />
